@@ -12,7 +12,8 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px"> Welcome to my Github Profile.
 
 My name is **Golap Hossain**.I have completed my graduation from Shahjalal University of Science and Technology in Computer Science and Engineering major. I'm from Bangladesh, living in Dhaka and currently looking for a job opportunity in a **Software Engineer** position.
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Golaphossain&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)
 
 
 ## &#x1f4c8; GitHub Stats
