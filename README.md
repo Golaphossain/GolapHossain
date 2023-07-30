@@ -36,23 +36,17 @@ My primary hobbies are:
 ![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-C++](https://img.shields.io/badge/code-c++-0bbf44?style=for-the-badge&logo=&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-0bbf44?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-dart](https://img.shields.io/badge/code-dart-0bbf44?style=for-the-badge&logo=dart&logoColor=white&labelColor=21223e)
 ![badge-c](https://img.shields.io/badge/code-c-0bbf44?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
 ![badge-php](https://img.shields.io/badge/code-php-0bbf44?style=for-the-badge&logo=php&logoColor=white&labelColor=21223e)
-<!-- 
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
--->
+
 ![badge-android](https://img.shields.io/badge/sdk-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/runtime-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
-![badge-react](https://img.shields.io/badge/library-react_js-0bbf44?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
-![badge-flutter](https://img.shields.io/badge/framework-flutter-0bbf44?style=for-the-badge&logo=flutter&logoColor=white&labelColor=21223e)
-![badge-next](https://img.shields.io/badge/framework-next_js-0bbf44?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
+![badge-laravel](https://img.shields.io/badge/framework-laravel-0bbf44?style=for-the-badge&logo=laravel&logoColor=white&labelColor=21223e)
 
 
 ![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
 ![badge-api](https://img.shields.io/badge/api-Rest_Api-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
 
-![badge-firebase](https://img.shields.io/badge/database-firebase-0bbf44?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
 ![badge-mongodb](https://img.shields.io/badge/database-mongodb-0bbf44?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
 ![badge-mysql](https://img.shields.io/badge/database-mysql-0bbf44?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
