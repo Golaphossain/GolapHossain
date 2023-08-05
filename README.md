@@ -41,6 +41,7 @@ My primary hobbies are:
 
 ![badge-android](https://img.shields.io/badge/sdk-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/runtime-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+![badge-laravel](https://img.shields.io/badge/framework-django-0bbf44?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
 ![badge-laravel](https://img.shields.io/badge/framework-laravel-0bbf44?style=for-the-badge&logo=laravel&logoColor=white&labelColor=21223e)
 
 
